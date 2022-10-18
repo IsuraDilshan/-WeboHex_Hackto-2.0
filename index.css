@@ -1,9 +1,13 @@
 body
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-image: url('seolu.jpg');
-}
+    background-repeat: no-repeat;
+    background-size : fixed;
 
+}
+.solo{
+    color: white;
+}
 .heading1
 {
     color: rgb(6, 15, 94);
@@ -13,7 +17,7 @@ body
 
 .heading2
 {
-    color: rgb(6, 15, 94);
+    color:black;
     margin-left: 20px;
     padding-top: 30px;
 }
