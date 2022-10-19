@@ -1,10 +1,17 @@
-body
+.body
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-repeat: no-repeat;
     background-size : fixed;
 
 }
+.bar
+{
+    height: 10vh;
+   text-align: right;
+    
+}
+
 .solo{
     color: white;
 }
